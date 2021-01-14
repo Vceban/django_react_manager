@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
 import { Link } from "react-router-dom";
 
-export class Contact extends Component{
+export class About extends Component{
 
 	render() {
     return (
-    <div></div>
-    )
+
+    );
   }
 }
-export default Contact
+export default About
